@@ -1,3 +1,6 @@
+## Live Demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://market-segmentatio-pdctedcqhm2tmzukn87v8r.streamlit.app/)
+
 # Credit Card Customer Segmentation
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
