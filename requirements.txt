@@ -6,5 +6,6 @@ seaborn
 streamlit
 joblib
 scipy
+plotly
 ipykernel
 notebook
